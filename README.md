@@ -28,46 +28,46 @@ Even without deliberate prompt injection attacks, AI systems have already caused
 ### 4.	Inform your supervisor or project lead
 Let your supervisor, PI, manager, or project lead know when you are using agentic AI tools for university-related work. This is especially important for research projects, teaching materials, or administrative work.
 
-### 5.	Do not connect agentic AI to institutional systems
-Do not connect agentic AI tools to university email, shared drives, student information systems, HR systems, finance systems, research databases, learning management systems, or internal networks unless this has been explicitly approved.
-
-### 6.	Do not use OpenClaw
-The use of OpenClaw (or similar aggressively autonomous, unverified open-source agents) is prohibited on university equipment, as it lacks standard safety rails and is known to execute high-risk terminal commands without user confirmation.
-
-### 7.	Report incidents or near misses 
+### 5.	Report incidents or near misses 
 If you witness that an AI tool accesses something it should not have accessed, that it deleted or changed important files, leaks information, sends unintended messages, or behaves in other ways suspiciously, report it to your supervisor and/or the VU data security services at [ADD EMAIL]. Report such cases even if the issue was resolved to protocol the event, prevent others from making the same mistakes, and help increase expertise in our department over time.
 
-### 8.	Do not give models access to sensitive data
+### 6.	Do not connect agentic AI to institutional systems
+Do not connect agentic AI tools to university email, shared drives, student information systems, HR systems, finance systems, research databases, learning management systems, or internal networks unless this has been explicitly approved.
+
+### 7.	Do not give models access to sensitive data
 Never provide agentic AI tools with access to confidential, personal, or institutionally sensitive data, including student data and research data. Do not give AI models access to the server or computing cluster.
 
-### 9.	Never let an AI analyze your data directly
+### 8.	Never let an AI analyze your data directly
 Instead of uploading raw data, use AI tools to help write the analysis scripts (using dummy or synthetic data), and run those scripts locally yourself.
 
-### 10.	Never provide credentials or tokens
+### 9.	Never provide credentials or tokens
 Never paste passwords, API keys, SSH keys, access tokens, recovery codes, or private certificates into an AI system. Avoid allowing agentic tools to access files or environments where such secrets may be stored.
 
-### 11.	Use sandboxing
+### 10.	Use sandboxing
 Run agentic AI tools only in a restricted environment, such as a sandbox, container, virtual machine, or other isolated workspace. For example, use terminal sandboxing features where available, such as in Antigravity.
 
-### 12.	Use a separate device
+### 11.	Use a separate device whenever possible
 Ideally, use a separate computer for agentic AI experimentation, especially when testing new or unfamiliar tools. Avoid using your primary work machine, especially if you already foresee risks.
 
-### 13.	Apply the principle of least privilege
+### 12.	Apply the principle of least privilege
 Never give the model full access to your machine, file system, browser, email, cloud storage, institutional accounts, or command line. Grant only the minimum access needed for the specific task at hand.
 
-### 14.	Enforce boundaries at the system level, not the prompt level
+### 13.	Enforce boundaries at the system level, not the prompt level
 Do not rely on natural language instructions to keep an agent safe (e.g., prompting the model with "Never delete a file"). Natural language boundaries are easily bypassed by the model's own hallucinations or external prompt injections. Instead, enforce boundaries at the infrastructure level. If you don't want the agent to delete files, run it in an environment where it physically lacks write/delete permissions.
 
-### 15.	Maintain backups and use version control whenever possible
+### 14.	Maintain backups and use version control
 Always keep backups of your files before using agentic AI tools. This is especially important before allowing a model to edit, move, rename, generate, overwrite, or delete files. For code, documents, data-processing scripts, and configuration files, use version control such as Git. This approach will allow you to recover files that an AI agent changed or deleted outside your control.
 
-### 16.	Keep the human in control 
-Do not allow the model to execute high-impact actions without review. Require confirmation before deleting files, modifying important documents, installing software, sending emails, publishing content, submitting forms, changing permissions, or contacting external services.
-
-### 17.	Avoid autonomous long-running tasks
+### 15.	Avoid autonomous long-running tasks
 Do not let an agent run unattended for extended periods, especially if it has file-system, network, browser, terminal, or account access. Monitor what it is doing and stop it if it behaves unexpectedly.
 
-### 18.	Review outputs carefully
+### 16.	Review outputs carefully
 Do not assume that the model’s output is correct, safe, legal, or ethical. Check code, citations, calculations, summaries, data transformations, and generated text thoroughly before relying on them. Never trust AI-generated content blindly.
+
+### 17.	Keep the human in control 
+Do not allow the model to execute high-impact actions without review. Require confirmation before deleting files, modifying important documents, installing software, sending emails, publishing content, submitting forms, changing permissions, or contacting external services.
+
+### 18.	Do not use OpenClaw
+The use of OpenClaw (or similar aggressively autonomous, unverified open-source agents) is prohibited on university equipment, as it lacks standard safety rails and is known to execute high-risk terminal commands without user confirmation.
 
 ### 19. Remember that you remain fully responsible and accountable for harm caused by your AI agents
