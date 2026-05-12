@@ -1,6 +1,6 @@
 # Recommendations for using agentic AI safely
 Agentic AI tools can take actions on your behalf, such as reading files, writing code, running terminal commands, browsing the web, or interacting with software. This makes them powerful, but also risky. Before using such tools in university work, please follow these recommendations.
-Matthias Nau
+_Matthias Nau_
 
 ## What is an agentic AI?
 Agentic AI refers to artificial intelligence systems designed to act autonomously or semi-autonomously to achieve specific goals. Unlike standard LLMs that merely answers questions or generate text, agentic AI can interact with its environment (e.g., executing code, using software, browsing the internet, and manipulating files), to complete complex, multi-step tasks.
@@ -10,16 +10,18 @@ Agentic AI refers to artificial intelligence systems designed to act autonomousl
 ### 1.	Inform yourself about AI safety risks before use
 Read up on the specific risks of agentic AI systems, especially when they are allowed to use tools, execute code, access files, browse the web, or interact with other software.
 
-o	Careful adoption of agentic AI services (Cyber.gov.au)
-o	AI Agent Security Cheat Sheet (OWASP)
+o	Read: [Careful adoption of agentic AI services](https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence/careful-adoption-of-agentic-ai-services)
+
+o	Read: [AI Agent Security Cheat Sheet (OWASP)](https://cheatsheetseries.owasp.org/cheatsheets/AI_Agent_Security_Cheat_Sheet.html)
 
 ### 2.	Learn about prompt injection
 Prompt injections are attacks that cause an AI system to ignore your instructions, leak information, run unsafe commands, or take harmful actions based on malicious text found in websites, emails, documents, repositories, or other external content. Be especially careful when an agentic AI system reads webpages, emails, PDFs, GitHub repositories, shared documents, or downloaded files. External content may contain hidden or explicit instructions designed to manipulate the model.
-o	LLM Prompt Injection Prevention Cheat Sheet (OWASP)
+o	Read: [LLM Prompt Injection Prevention Cheat Sheet (OWASP)](https://cheatsheetseries.owasp.org/cheatsheets/LLM_Prompt_Injection_Prevention_Cheat_Sheet.html)
 
 ### 3.	Beware of institutional-scale damage
 Even without deliberate prompt injection attacks, AI systems have already caused serious damage to institutions when used carelessly or with excessive autonomy. Consider the recent case where an AI system permanently deleted a firm's internal database due to a misunderstood objective. These risks are not hypothetical.
-o	See Guardian article: Claude AI deletes firm database
+o	Read Guardian article: [Claude AI deletes firm database
+](https://www.theguardian.com/technology/2026/apr/29/claude-ai-deletes-firm-database)
 
 ### 4.	Inform your supervisor or project lead
 Let your supervisor, PI, manager, or project lead know when you are using agentic AI tools for university-related work. This is especially important for research projects, teaching materials, or administrative work.
