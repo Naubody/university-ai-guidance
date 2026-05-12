@@ -10,18 +10,19 @@ Agentic AI refers to artificial intelligence systems designed to act autonomousl
 ### 1.	Inform yourself about AI safety risks before use
 Read up on the specific risks of agentic AI systems, especially when they are allowed to use tools, execute code, access files, browse the web, or interact with other software.
 
+*	Read: [Careful adoption of agentic AI services](https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence/careful-adoption-of-agentic-ai-services)
 
-o	Read: [Careful adoption of agentic AI services](https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence/careful-adoption-of-agentic-ai-services)
-
-o	Read: [AI Agent Security Cheat Sheet (OWASP)](https://cheatsheetseries.owasp.org/cheatsheets/AI_Agent_Security_Cheat_Sheet.html)
+*	Read: [AI Agent Security Cheat Sheet (OWASP)](https://cheatsheetseries.owasp.org/cheatsheets/AI_Agent_Security_Cheat_Sheet.html)
 
 ### 2.	Learn about prompt injection
 Prompt injections are attacks that cause an AI system to ignore your instructions, leak information, run unsafe commands, or take harmful actions based on malicious text found in websites, emails, documents, repositories, or other external content. Be especially careful when an agentic AI system reads webpages, emails, PDFs, GitHub repositories, shared documents, or downloaded files. External content may contain hidden or explicit instructions designed to manipulate the model.
-o	Read: [LLM Prompt Injection Prevention Cheat Sheet (OWASP)](https://cheatsheetseries.owasp.org/cheatsheets/LLM_Prompt_Injection_Prevention_Cheat_Sheet.html)
+
+*	Read: [LLM Prompt Injection Prevention Cheat Sheet (OWASP)](https://cheatsheetseries.owasp.org/cheatsheets/LLM_Prompt_Injection_Prevention_Cheat_Sheet.html)
 
 ### 3.	Beware of institutional-scale damage
 Even without deliberate prompt injection attacks, AI systems have already caused serious damage to institutions when used carelessly or with excessive autonomy. Consider the recent case where an AI system permanently deleted a firm's internal database due to a misunderstood objective. These risks are not hypothetical.
-o	Read Guardian article: [Claude AI deletes firm database
+
+*	Read Guardian article: [Claude AI deletes firm database
 ](https://www.theguardian.com/technology/2026/apr/29/claude-ai-deletes-firm-database)
 
 ### 4.	Inform your supervisor or project lead
