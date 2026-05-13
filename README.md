@@ -71,6 +71,6 @@ Do not assume that the model’s output is correct, safe, legal, or ethical. Che
 Do not allow the model to execute high-impact actions without review. Require confirmation before deleting files, modifying important documents, installing software, sending emails, publishing content, submitting forms, changing permissions, or contacting external services. Reviewing commands requires you to read and understand the respective programming language.
 
 ### 19.	Do not use OpenClaw
-The use of OpenClaw (or similar aggressively autonomous, unverified open-source agents) is prohibited on university equipment, as it lacks standard safety rails and is known to execute high-risk terminal commands without user confirmation.
+The use of OpenClaw (or similar aggressively autonomous, unverified open-source agents) is prohibited on university equipment, as it lacks standard safety rails and may execute high-risk terminal commands without user confirmation.
 
 ### 20. Remember that you remain fully responsible and accountable for harm caused by your AI agents
