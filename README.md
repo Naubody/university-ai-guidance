@@ -33,13 +33,13 @@ Let your supervisor, PI, manager, or project lead know when you are using agenti
 If you witness that an AI tool accesses something it should not have accessed, that it deleted or changed important files, leaks information, sends unintended messages, or behaves in other ways suspiciously, report it to your supervisor and/or the VU data security services. Report such cases even if the issue was resolved to protocol the event, prevent others from making the same mistakes, and help increase expertise in our department over time. In the event of a (suspected) data breach, please contact the [IT Service Desk](https://vu.nl/en/employee/emergencies/data-leaks-and-other-incidents) immediately on 020-59 80000 or servicedesk.it@vu.nl.
 
 ### 6.	Do not connect agentic AI to institutional systems
-Do not connect agentic AI tools to university email, shared drives, student information systems, HR systems, finance systems, research databases, learning management systems, or internal networks.
+Do not connect agentic AI tools to university email, shared drives, student information systems, HR systems, finance systems, research databases, learning management systems, or internal networks. 
 
 ### 7.	Do not give models access to sensitive data
 Never provide agentic AI tools with access to confidential, personal, or institutionally sensitive data, including student data and research data. Do not give AI models access to the server or computing cluster.
 
 ### 8.	Never let an AI analyze your data directly
-Instead of uploading raw data, use AI tools to help write the analysis scripts (using dummy or synthetic data), and run those scripts locally yourself.
+Instead of uploading raw data, use AI tools to help write the analysis scripts (using dummy or synthetic data), and run those scripts locally yourself. Otherwise you cannot be sure that your data remains safe.
 
 ### 9.	Never provide credentials or tokens
 Never paste passwords, API keys, SSH keys, access tokens, recovery codes, or private certificates into an AI system. Avoid allowing agentic tools to access files or environments where such secrets may be stored.
@@ -48,9 +48,9 @@ Never paste passwords, API keys, SSH keys, access tokens, recovery codes, or pri
 If an agent is operating in a work browser where your personal email or bank account is also logged in, a hallucination or prompt injection could cause the agent to accidentally read, modify, or leak your private personal data (or vice versa). Therefore, keep your personal and professional digital lives separate as much as possible (e.g., different Gmail accounts).
 
 ### 11.	Use sandboxing
-Run agentic AI tools only in a restricted environment, such as a sandbox, container, virtual machine, or other isolated workspace. For example, use terminal sandboxing features where available, such as in Antigravity.
+Run agentic AI tools only in a restricted environment, such as a sandbox, container, virtual machine, or other isolated workspace. For example, use terminal sandboxing features where available, such as in Antigravity. Dual boot systems with encrypted partitions improve safety as well.
 
-### 12.	Use a separate device whenever possible
+### 12.	Use a separate device
 Ideally, use a separate computer for agentic AI experimentation, especially when testing new or unfamiliar tools. Avoid using your primary work machine, especially if you already foresee risks.
 
 ### 13.	Apply the principle of least privilege
