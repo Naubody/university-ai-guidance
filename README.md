@@ -94,20 +94,6 @@ The use of OpenClaw (or similar aggressively autonomous, unverified open-source 
 
 ---
 
-## Quick checklist
-Before using an AI agent for university-related work, check that:
-
-- [ ] It does not have access to sensitive, personal, confidential, institutional, or unpublished research data.
-- [ ] It cannot access university email, shared drives, student information systems, HR systems, finance systems, research databases, or learning management systems.
-- [ ] It does not have access to passwords, API keys, SSH keys, authentication tokens, or recovery codes.
-- [ ] It runs in restricted environments like a sandbox, virtual machine, container, dual-boot system, or separate device.
-- [ ] Important files are backed up or managed with version control.
-- [ ] You understand and review commands before they are executed.
-- [ ] You do not allow long-running autonomous tasks without supervision.
-- [ ] You know how to report incidents, near misses, or unexpected behaviour.
-
----
-
 ## Why not prohibit the use of agentic AI entirely?
 
 A blanket ban on AI agents is unlikely to be effective without the ability to monitor and enforce rules consistently. Paradoxically, a ban may even increase security risks rather than reduce them: students and staff may still use AI agents, but become less likely to ask questions, seek advice, or report mistakes, especially around data protection, security, or unintended access to files and systems. A ban could also raise fairness concerns if similar restrictions do not apply across the wider faculty or university.
