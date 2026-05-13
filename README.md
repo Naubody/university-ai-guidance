@@ -1,14 +1,15 @@
 # Guidelines on agentic AI in university work
-Agentic AI tools can take actions on your behalf, such as reading files, writing code, running terminal commands, browsing the web, or interacting with software. This makes them powerful, but also risky (see [colloquium slides on agentic AI](https://github.com/Naubody/university-ai-guidance/blob/main/agenticAI_colloquium_MNau.pdf). Before using such tools in university work, please review the following recommendations.
+Agentic AI tools can take actions on your behalf, such as reading files, writing code, running terminal commands, browsing the web, or interacting with software. This makes them powerful, but also risky (see [colloquium slides on agentic AI](https://github.com/Naubody/university-ai-guidance/blob/main/agenticAI_colloquium_MNau.pdf). Before using such tools in university work, please review the following recommendations. 
+
+This guidance reflects my own views, informed by personal experience and literature research. It does not represent generally agreed-upon conventions or official institutional policy.
 
 _Matthias Nau_, Vrije Universiteit Amsterdam (VU)
 
 ---
 
 ## What is an agentic AI?
-Agentic AI refers to AI systems that can take actions on behalf of a user, rather than only generating text or other content in a chat interface.
+Agentic AI refers to AI systems that can take actions on behalf of a user, rather than only generating text or other content in a chat interface. Examples of such actions include the following. 
 
-Examples of such actions include:
 - reading, editing, or deleting files;
 - writing and running code;
 - executing terminal commands;
