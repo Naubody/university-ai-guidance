@@ -42,8 +42,8 @@ Do not connect agentic AI tools to university email, shared drives, student info
 ### 7.	Do not give models access to sensitive data
 Never provide agentic AI tools with access to confidential, personal, or institutionally sensitive data, including student data and research data. Do not give AI models access to the server or computing cluster.
 
-### 8.	Never let an AI analyze your data directly
-Instead of uploading raw data, use AI tools to help write the analysis scripts (using dummy or synthetic data), and run those scripts locally yourself. Otherwise you cannot be sure that your data remains safe.
+### 8.	Do not an AI analyze your data directly
+Do not let an AI analyze raw, sensitive, confidential, personal, institutional, or unpublished research data directly. Instead, use AI tools to help write analysis scripts with dummy or synthetic data, and run those scripts locally yourself.
 
 ### 9.	Never provide credentials or tokens
 Never paste passwords, API keys, SSH keys, access tokens, recovery codes, or private certificates into an AI system. Avoid allowing agentic tools to access files or environments where such secrets may be stored.
