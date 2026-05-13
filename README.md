@@ -1,9 +1,10 @@
 # Guidelines on agentic AI in university work
 Agentic AI tools can take actions on your behalf, such as reading files, writing code, running terminal commands, browsing the web, or interacting with software. This makes them powerful, but also risky (see [colloquium slides on agentic AI](https://github.com/Naubody/university-ai-guidance/blob/main/agenticAI_colloquium_MNau.pdf). Before using such tools in university work, please review the following recommendations. 
 
-This guidance reflects my own views, informed by personal experience and literature research. It does not represent generally agreed-upon conventions or official institutional policy.
+> [!NOTE]
+> This guidance reflects my own views, informed by personal experience and literature research. It does not represent generally agreed-upon conventions or official institutional policy.
 
-_Matthias Nau_, Vrije Universiteit Amsterdam (VU)
+_Matthias Nau, Vrije Universiteit Amsterdam (VU)_
 
 ---
 
