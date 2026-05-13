@@ -75,3 +75,18 @@ Do not allow the model to execute high-impact actions without review. Require co
 The use of OpenClaw (or similar aggressively autonomous, unverified open-source agents) is prohibited on university equipment, as it lacks standard safety rails and may execute high-risk terminal commands without user confirmation.
 
 ### 20. Remember that you remain fully responsible and accountable for harm caused by your AI agents
+
+
+## Why not prohibit the use of agentic AI entirely?
+
+A blanket ban on AI agents is unlikely to be effective without the ability to monitor and enforce rules consistently. Paradoxically, a ban may even increase security risks rather than reduce them: students and staff may still use AI agents, but become less likely to ask questions, seek advice, or report mistakes, especially around data protection, security, or unintended access to files and systems. A ban could also raise fairness concerns if similar restrictions do not apply across the wider faculty or university.
+
+We therefore favour an approach based on education, clear expectations, and individual responsibility. AI agents pose real risks, particularly on VU equipment and when sensitive, confidential, institutional, or unpublished research data are involved. These risks are best managed through guidance, transparency, and a culture in which people feel safe to discuss use cases and report concerns early. Our recommendations are intended to set clear boundaries, discourage high-risk use, and promote informed, accountable, and transparent practice, while avoiding the unintended consequences of a total ban.
+
+Note that using AI systems poses other risks as well that are not discussed here, such as [impaired skill formation and learning](https://arxiv.org/abs/2601.20245).
+
+
+
+
+
+
