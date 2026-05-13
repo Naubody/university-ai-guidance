@@ -1,6 +1,7 @@
 # Recommendations for using agentic AI
-Agentic AI tools can take actions on your behalf, such as reading files, writing code, running terminal commands, browsing the web, or interacting with software. This makes them powerful, but also risky (see my [colloquium slides on agentic AI](https://github.com/Naubody/university-ai-guidance/blob/main/agenticAI_colloquium_MNau.pdf). Before using such tools in university work, please review the following recommendations. 
-_Matthias Nau_
+Agentic AI tools can take actions on your behalf, such as reading files, writing code, running terminal commands, browsing the web, or interacting with software. This makes them powerful, but also risky (see my [colloquium slides on agentic AI](https://github.com/Naubody/university-ai-guidance/blob/main/agenticAI_colloquium_MNau.pdf). Before using such tools in university work, please review the following recommendations.
+
+_Matthias Nau_, Vrije Universiteit Amsterdam (VU)
 
 ## What is an agentic AI?
 Agentic AI refers to artificial intelligence systems designed to act autonomously or semi-autonomously to achieve specific goals. Unlike standard LLMs that merely answer questions or generate text, agentic AI can interact with its environment (e.g., executing code, using software, browsing the internet, and manipulating files), to complete complex, multi-step tasks.
@@ -29,10 +30,10 @@ Even without deliberate prompt injection attacks, AI systems have already caused
 Let your supervisor, PI, manager, or project lead know when you are using agentic AI tools for university-related work. This is especially important for research projects, teaching materials, or administrative work.
 
 ### 5.	Report incidents or near misses 
-If you witness that an AI tool accesses something it should not have accessed, that it deleted or changed important files, leaks information, sends unintended messages, or behaves in other ways suspiciously, report it to your supervisor and/or the VU data security services at [ADD EMAIL]. Report such cases even if the issue was resolved to protocol the event, prevent others from making the same mistakes, and help increase expertise in our department over time.
+If you witness that an AI tool accesses something it should not have accessed, that it deleted or changed important files, leaks information, sends unintended messages, or behaves in other ways suspiciously, report it to your supervisor and/or the VU data security services. Report such cases even if the issue was resolved to protocol the event, prevent others from making the same mistakes, and help increase expertise in our department over time. In the event of a (suspected) data breach, please contact the [IT Service Desk](https://vu.nl/en/employee/emergencies/data-leaks-and-other-incidents) immediately on 020-59 80000 or servicedesk.it@vu.nl.
 
 ### 6.	Do not connect agentic AI to institutional systems
-Do not connect agentic AI tools to university email, shared drives, student information systems, HR systems, finance systems, research databases, learning management systems, or internal networks unless this has been explicitly approved.
+Do not connect agentic AI tools to university email, shared drives, student information systems, HR systems, finance systems, research databases, learning management systems, or internal networks.
 
 ### 7.	Do not give models access to sensitive data
 Never provide agentic AI tools with access to confidential, personal, or institutionally sensitive data, including student data and research data. Do not give AI models access to the server or computing cluster.
