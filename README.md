@@ -3,8 +3,12 @@ Agentic AI tools can take actions on your behalf, such as reading files, writing
 
 _Matthias Nau_, Vrije Universiteit Amsterdam (VU)
 
+---
+
 ## What is an agentic AI?
 Agentic AI refers to artificial intelligence systems designed to act autonomously or semi-autonomously to achieve specific goals. Unlike standard LLMs that merely answer questions or generate text, agentic AI can interact with its environment (e.g., executing code, using software, browsing the internet, and manipulating files), to complete complex, multi-step tasks.
+
+---
 
 ## Recommendations
 
@@ -76,6 +80,7 @@ The use of OpenClaw (or similar aggressively autonomous, unverified open-source 
 
 ### 20. Remember that you remain fully responsible and accountable for harm caused by your AI agents
 
+---
 
 ## Why not prohibit the use of agentic AI entirely?
 
