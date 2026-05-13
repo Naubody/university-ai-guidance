@@ -100,7 +100,7 @@ Before using an AI agent for university-related work, check that:
 - [ ] It does not have access to sensitive, personal, confidential, institutional, or unpublished research data.
 - [ ] It cannot access university email, shared drives, student information systems, HR systems, finance systems, research databases, or learning management systems.
 - [ ] It does not have access to passwords, API keys, SSH keys, authentication tokens, or recovery codes.
-- [ ] It runs in a restricted environment, such as a sandbox, virtual machine, container, dual-boot system, or separate device.
+- [ ] It runs in restricted environments like a sandbox, virtual machine, container, dual-boot system, or separate device.
 - [ ] Important files are backed up or managed with version control.
 - [ ] You understand and review commands before they are executed.
 - [ ] You do not allow long-running autonomous tasks without supervision.
