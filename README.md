@@ -1,5 +1,5 @@
 # Guidelines on agentic AI in university work
-Agentic AI tools can take actions on your behalf, such as reading files, writing code, running terminal commands, browsing the web, or interacting with software. This makes them powerful, but also risky (see my [colloquium slides on agentic AI](https://github.com/Naubody/university-ai-guidance/blob/main/agenticAI_colloquium_MNau.pdf). Before using such tools in university work, please review the following recommendations.
+Agentic AI tools can take actions on your behalf, such as reading files, writing code, running terminal commands, browsing the web, or interacting with software. This makes them powerful, but also risky (see [colloquium slides on agentic AI](https://github.com/Naubody/university-ai-guidance/blob/main/agenticAI_colloquium_MNau.pdf). Before using such tools in university work, please review the following recommendations.
 
 _Matthias Nau_, Vrije Universiteit Amsterdam (VU)
 
@@ -9,7 +9,6 @@ _Matthias Nau_, Vrije Universiteit Amsterdam (VU)
 Agentic AI refers to AI systems that can take actions on behalf of a user, rather than only generating text or other content in a chat interface.
 
 Examples of such actions include:
-
 - reading, editing, or deleting files;
 - writing and running code;
 - executing terminal commands;
@@ -19,6 +18,8 @@ Examples of such actions include:
 - working toward a goal over multiple steps with limited user supervision.
 
 This makes agentic AI different from ordinary chatbot use. The risks are substantially higher because the system may interact directly with files, accounts, software, and external services.
+
+---
 
 ## Recommendations
 
@@ -116,7 +117,7 @@ We therefore favour an approach based on education, clear expectations, and indi
 > This document focuses mainly on security, privacy, and responsible operation of agentic AI systems.
 > The use of AI systems may pose other risks as well, including [impaired skill formation and learning](https://arxiv.org/abs/2601.20245), reduced learning, overreliance, bias, hallucinated information, and unclear authorship or attribution.
 
-
+---
 
 
 
