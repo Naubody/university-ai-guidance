@@ -1,5 +1,5 @@
 # Recommendations for using agentic AI
-Agentic AI tools can take actions on your behalf, such as reading files, writing code, running terminal commands, browsing the web, or interacting with software. This makes them powerful, but also risky (see my [colloquium slides on agentic AI](https://drive.google.com/file/d/1PhEJvINEbkH8sZNFmFPrX3VnIoDQBDC0/view?usp=sharing)). Before using such tools in university work, please review the following recommendations. 
+Agentic AI tools can take actions on your behalf, such as reading files, writing code, running terminal commands, browsing the web, or interacting with software. This makes them powerful, but also risky (see my [colloquium slides on agentic AI](https://github.com/Naubody/university-ai-guidance/blob/main/agenticAI_colloquium_MNau.pdf). Before using such tools in university work, please review the following recommendations. 
 _Matthias Nau_
 
 ## What is an agentic AI?
@@ -43,31 +43,34 @@ Instead of uploading raw data, use AI tools to help write the analysis scripts (
 ### 9.	Never provide credentials or tokens
 Never paste passwords, API keys, SSH keys, access tokens, recovery codes, or private certificates into an AI system. Avoid allowing agentic tools to access files or environments where such secrets may be stored.
 
-### 10.	Use sandboxing
+### 10. Maintain separation between personal and work accounts
+If an agent is operating in a work browser where your personal email or bank account is also logged in, a hallucination or prompt injection could cause the agent to accidentally read, modify, or leak your private personal data (or vice versa). Therefore, keep your personal and professional digital lives separate as much as possible (e.g., different Gmail accounts).
+
+### 11.	Use sandboxing
 Run agentic AI tools only in a restricted environment, such as a sandbox, container, virtual machine, or other isolated workspace. For example, use terminal sandboxing features where available, such as in Antigravity.
 
-### 11.	Use a separate device whenever possible
+### 12.	Use a separate device whenever possible
 Ideally, use a separate computer for agentic AI experimentation, especially when testing new or unfamiliar tools. Avoid using your primary work machine, especially if you already foresee risks.
 
-### 12.	Apply the principle of least privilege
+### 13.	Apply the principle of least privilege
 Never give the model full access to your machine, file system, browser, email, cloud storage, institutional accounts, or command line. Grant only the minimum access needed for the specific task at hand.
 
-### 13.	Enforce boundaries at the system level, not the prompt level
+### 14.	Enforce boundaries at the system level, not the prompt level
 Do not rely on natural language instructions to keep an agent safe (e.g., prompting the model with "Never delete a file"). Natural language boundaries are easily bypassed by the model's own hallucinations or external prompt injections. Instead, enforce boundaries at the infrastructure level. If you don't want the agent to delete files, run it in an environment where it physically lacks write/delete permissions.
 
-### 14.	Maintain backups and use version control
+### 15.	Maintain backups and use version control
 Always keep backups of your files before using agentic AI tools. This is especially important before allowing a model to edit, move, rename, generate, overwrite, or delete files. For code, documents, data-processing scripts, and configuration files, use version control such as Git. This approach will allow you to recover files that an AI agent changed or deleted outside your control.
 
-### 15.	Avoid autonomous long-running tasks
+### 16.	Avoid autonomous long-running tasks
 Do not let an agent run unattended for extended periods, especially if it has file-system, network, browser, terminal, or account access. Monitor what it is doing and stop it if it behaves unexpectedly.
 
-### 16.	Review outputs carefully
+### 17.	Review outputs carefully
 Do not assume that the model’s output is correct, safe, legal, or ethical. Check code, citations, calculations, summaries, data transformations, and generated text thoroughly before relying on them. Never trust AI-generated content blindly.
 
-### 17.	Keep the human in control 
-Do not allow the model to execute high-impact actions without review. Require confirmation before deleting files, modifying important documents, installing software, sending emails, publishing content, submitting forms, changing permissions, or contacting external services.
+### 18.	Keep the human in control 
+Do not allow the model to execute high-impact actions without review. Require confirmation before deleting files, modifying important documents, installing software, sending emails, publishing content, submitting forms, changing permissions, or contacting external services. Reviewing commands requires you to read and understand the respective programming language.
 
-### 18.	Do not use OpenClaw
+### 19.	Do not use OpenClaw
 The use of OpenClaw (or similar aggressively autonomous, unverified open-source agents) is prohibited on university equipment, as it lacks standard safety rails and is known to execute high-risk terminal commands without user confirmation.
 
-### 19. Remember that you remain fully responsible and accountable for harm caused by your AI agents
+### 20. Remember that you remain fully responsible and accountable for harm caused by your AI agents
