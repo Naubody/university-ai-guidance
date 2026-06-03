@@ -117,7 +117,7 @@ We therefore favour an approach based on education, clear expectations, and indi
 
 *	Read: [Scientists invented a fake disease. AI told people it was real](https://www.nature.com/articles/d41586-026-01100-y)
 
-*	Read: [AI safety threat arrives ahead of schedule]([https://www.nature.com/articles/d41586-026-01100-y](https://inthewatershed.substack.com/p/the-ai-safety-threat-arrives-ahead))
+*	Read: [AI safety threat arrives ahead of schedule](https://inthewatershed.substack.com/p/the-ai-safety-threat-arrives-ahead)
 
 
 
