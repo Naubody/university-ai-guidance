@@ -111,6 +111,8 @@ We therefore favour an approach based on education, clear expectations, and indi
 
 ## Further reading (To be extended)
 
+*	[Against the Uncritical Adoption of 'AI' Technologies in Academia](https://zenodo.org/records/17065099)
+
 *	[The uncritical adoption of AI in science is alarming — we urgently need guard rails](https://www.nature.com/articles/d41586-026-01557-x)
 
 *	[I avoid AI tools because thinking is supposed to be hard. It’s what makes us human](https://www.theguardian.com/commentisfree/2026/may/24/ai-tools-thinking-human-hard-coding-writing-technology)
@@ -118,6 +120,7 @@ We therefore favour an approach based on education, clear expectations, and indi
 *	[Scientists invented a fake disease. AI told people it was real](https://www.nature.com/articles/d41586-026-01100-y)
 
 *	[AI safety threat arrives ahead of schedule](https://inthewatershed.substack.com/p/the-ai-safety-threat-arrives-ahead)
+
 
 
 
