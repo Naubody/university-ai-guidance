@@ -1,15 +1,15 @@
-# Guidelines on agentic AI in university work
-Agentic AI tools can take actions on your behalf, such as reading files, writing code, running terminal commands, browsing the web, or interacting with software. This makes them powerful, but also risky (see [colloquium slides on agentic AI](https://github.com/Naubody/university-ai-guidance/blob/main/agenticAI_colloquium_MNau.pdf). Before using such tools in university work, please review the following recommendations. 
+# Guidelines on Agentic AI Use in Research
+Agentic AI tools can take actions on your behalf, such as reading files, writing code, running terminal commands, browsing the web, or interacting with software. This makes them powerful, but also risky (see [colloquium slides on agentic AI](https://github.com/Naubody/university-ai-guidance/blob/main/agenticAI_colloquium_MNau.pdf). Before using such tools in university work, please review the following recommendations.
 
 > [!NOTE]
-> This guidance reflects my own views, informed by personal experience and literature research. It does not represent generally agreed-upon conventions or official institutional policy.
+> These guidelines reflect my views based on personal experience and literature research. It does not represent generally agreed-upon conventions or official institutional policy.
 
 _Matthias Nau, Vrije Universiteit Amsterdam (VU)_
 
 ---
 
 ## What is an agentic AI?
-Agentic AI refers to AI systems that can take actions on behalf of a user, rather than only generating text or other content in a chat interface. Examples of such actions include the following. 
+Agentic AI refers to AI systems that can take actions on behalf of a user, rather than only generating text or other content in a chat interface. Examples of such actions include:
 
 - reading, editing, or deleting files;
 - writing and running code;
@@ -27,6 +27,8 @@ This makes agentic AI different from ordinary chatbot use. The risks are substan
 
 #### 1.	Inform yourself about AI safety risks before use
 Read up on the specific risks of agentic AI systems, especially when they are allowed to use tools, execute code, access files, browse the web, or interact with other software.
+
+*	Read: [Agentic AI Security: Threats, Defenses, Evaluation, and Open Challenges](https://arxiv.org/abs/2510.23883)
 
 *	Read: [Careful adoption of agentic AI services](https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence/careful-adoption-of-agentic-ai-services)
 
@@ -107,6 +109,11 @@ We therefore favour an approach based on education, clear expectations, and indi
 
 ---
 
+## Further reading (To be extended)
+
+*	Read: [The uncritical adoption of AI in science is alarming — we urgently need guard rails](https://www.nature.com/articles/d41586-026-01557-x)
+
+*	Read: [I avoid AI tools because thinking is supposed to be hard. It’s what makes us human](https://www.theguardian.com/commentisfree/2026/may/24/ai-tools-thinking-human-hard-coding-writing-technology)
 
 
 
